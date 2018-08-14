@@ -1,10 +1,10 @@
 ---
 title: "Confident students, engaged learners"
-subtitle: 
-image: /img/home-jumbotron.jpg
+subtitle:
+image: /img/colored_pencils.jpg
 blurb:
     heading: Our Approach
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Not every student learns the same way. Adapting to the individual is key to effective teaching. Our coaching techniques guide students using methods most suited to their learning style."
 intro:
     heading: "What we offer"
     text: ""
