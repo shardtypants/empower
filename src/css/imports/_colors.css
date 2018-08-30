@@ -32,8 +32,8 @@
   color: var(--grey-4);
 }
 
-.black {
-  color: var(--black);
+.dark-blue {
+  color: var(--dark-blue);
 }
 
 .bg-primary {
@@ -68,8 +68,8 @@
   background-color: var(--grey-4);
 }
 
-.bg-black {
-  background-color: var(--black);
+.bg-dark-blue {
+  background-color: var(--dark-blue);
 }
 
 .bg-fix-primary {

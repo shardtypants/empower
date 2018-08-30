@@ -3,7 +3,7 @@
 }
 
 .b--highlight {
-  border-color: --var(--highlight);
+  border-color: var(--highlight);
 }
 
 .b--white {
@@ -30,6 +30,6 @@
   border-color: var(--grey-4);
 }
 
-.b--black {
-  border-color: var(--black);
+.b--dark-blue {
+  border-color: var(--dark-blue);
 }
