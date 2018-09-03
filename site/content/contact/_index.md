@@ -2,8 +2,7 @@
 title: "Contact"
 logo: "/img/empower_skinny.png"
 contact_entries:
-  - heading: Locations
-    text: "."
+
 ---
 
 We’d love to get in touch with you and discuss your student's needs.
