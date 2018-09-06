@@ -10,7 +10,7 @@ intro:
 products:
     - image: img/portrait1.jpg
     - text: "Rachel is awesome!"
-text-and-image:
-    heading: Client Testimonials
+testimonials:
+    heading: "Client Testimonials"
     text: "Rachel was instrumental in helping our daughter be properly prepared for the SAT and helping her head into the test with confidence and clear expectations. [My wife] and I really appreciate the excellent job she did and the professionalism she brought to her work with our daughter."
 ---
