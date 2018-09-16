@@ -1,29 +1,21 @@
 ---
-title: "Subjects"
-image: /img/about-jumbotron.jpg
+title: ""
+image: /img/bookstack.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Test Preparation"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Whether you've decided to take the SAT, ACT, Subject Tests, AP exams or all of the above, we're here to support you. After an initial consultation, we prepare a personalized study plan with your needs in mind. Not sure which test to tackle? We have years of experience guiding students and can help you make that decision.
+    imageUrl: "/img/"
+  - heading: "Mathematics"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      We cover a broad range of mathematics courses offered at the middle school, high school and college levels, including Pre-Algebra, Algebra 1, Geometry, Algebra 2, Pre-Calculus, Trigonometry, Statistics, AP Statistics, Calculus 1, Calculus 2, AP Calculus AB and AP Calculus BC.
+    imageUrl: "/img/"
+  - heading: "Science"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+      Biology, Chemistry, Physics - oh my! Our science tutors are passionate about these subjects and can't wait to share their enthusiasm with you.
+    imageUrl: "/img/"
+  - heading: "And More!"
+    text: >
+      Need assistance writing your college application essays? Want to become an effective note-taker? Overwhelmed by material in your classes? Ask us about other subject area and study skill support options.
+    imageUrl: "img/"
 ---
